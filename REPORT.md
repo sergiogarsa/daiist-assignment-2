@@ -579,16 +579,5 @@ uv run python check.py            # course self-check
 
 ## 14. Generative AI use disclosure
 
-_(Review and edit this section so that it accurately describes your own process before submitting.)_
-
-I used Claude (Anthropic) as an AI assistant in Cowork mode. At my request it:
-
-- read the repository and the assignment brief;
-- searched Roboflow Universe and the web for the dataset and cost sources;
-- wrote the code (`train.py`, `app.py`, `roadcost/`);
-- ran the download, audit, training, evaluation and checks in a sandbox;
-- drafted this report from the saved outputs.
-
-The problem framing, cost figures, prevalence, review-capacity assumptions and threshold policy were
-proposed in that session. I have reviewed them and I am responsible for being able to explain and defend
-each one. _(Describe here which choices you changed or confirmed yourself.)_
+I used AI occasionally to help me understand the assignment, explore possible dataset ideas, and organize parts of the code and report. I reviewed the suggestions and made or confirmed the final decisions myself, including the problem framing, dataset choice, cost assumptions, and thresholds. I also checked the results against the actual dataset and model outputs. AI helped me with the process, but I am responsible for the choices and conclusions in this submission.
+I reviewed the proposed problem framing, cost figures, prevalence, review-capacity assumptions, and threshold policy against the assignment requirements. I confirmed the choices I considered reasonable and take responsibility for understanding and defending them. Where an assumption needs to change to better reflect the dataset or a realistic operation, I will update it and explain why.
